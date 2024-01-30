@@ -3,6 +3,9 @@
   justify-content: space-between;
   align-items: center;
   align-content: center;
+  background-color: aqua;
+  height: 50px;
+  padding:5px;
 }
 
 .nav-links {
