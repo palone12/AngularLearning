@@ -14,6 +14,22 @@
  - as attribute 
  - as id Selector
 
+# Data Binding
+- flow of data from component class to view template and vice-versa.
+
+  ## Types of Data Binding 
+  ### One way Data Binding 
+     - Component to view template . --> String Interpolation, Property Binding
+     - View template to component . --> Event binding
+
+  ### Two Way data binding .
+    - Sending Data from component to view template and vice-versa stimultaneously.
+  
+  #### String Interpolation
+      
+    
+
+
 
   
 
