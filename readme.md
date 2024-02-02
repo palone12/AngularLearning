@@ -24,8 +24,10 @@
 
   ### Two Way data binding .
     - Sending Data from component to view template and vice-versa stimultaneously.
+    - Using Property and Event Binding Stimultenously.
   
-  #### String Interpolation
+  #### String Interpolation 
+    - will not wok for Hidden , Disabled , Checked --> For this we need to use Property Binding
       
     
 
