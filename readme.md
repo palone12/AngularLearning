@@ -30,6 +30,8 @@
     - will not wok for Hidden , Disabled , Checked --> For this we need to use Property Binding
       
     
+## Understanding Directives-
+   - It is an instruction to dom, use to change it's view , appereance
 
 
 

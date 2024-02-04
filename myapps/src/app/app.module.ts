@@ -7,7 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { ProductlistComponent } from './productlist/productlist.component';
 import { PersonNameComponent } from './person-name/person-name.component';
 import { SearchbarComponent } from './searchbar/searchbar.component';
-
+import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +18,7 @@ import { SearchbarComponent } from './searchbar/searchbar.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,FormsModule
   ],
   providers: [
     provideClientHydration()

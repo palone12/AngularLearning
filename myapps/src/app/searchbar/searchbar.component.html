@@ -1,5 +1,5 @@
 <div>
-  <input [value]="searchResult" (input)='inputSearch($event)'>
+  <input [(ngModel)]="searchResult">
   <span><button>Search</button></span>
   <p>Search Results for : {{searchResult}}</p>
 </div>
